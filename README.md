@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/Pranesh-hub/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Pranesh-hub/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Pranesh-hub/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Pranesh-hub/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=Pranesh-hub&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-hub&layout=compact&theme=transparent)
